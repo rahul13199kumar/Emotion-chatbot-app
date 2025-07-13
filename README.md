@@ -34,3 +34,7 @@
    ```bash
    git clone https://github.com/rahul13199kumar/feeltalk-dotnet.git
    cd feeltalk-dotnet
+
+## 🙌 Acknowledgements
+### Built by Rahul Kumar
+- Hosted with 💙 for open access to emotional expression.
