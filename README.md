@@ -17,3 +17,20 @@
 
 ## 📁 Project Structure
 
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [.NET 6 SDK or later](https://dotnet.microsoft.com/download)
+- Visual Studio / VS Code / Rider
+- Git (for version control)
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/rahul13199kumar/feeltalk-dotnet.git
+   cd feeltalk-dotnet
