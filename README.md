@@ -1,2 +1,19 @@
-# Emotion-chatbot-app
-🧠 FeelTalk – Free Emotional Chatbot (ASP.NET Core MVC) FeelTalk is a lightweight emotional chatbot web app built with ASP.NET Core MVC. It allows users to share feelings, jokes, or thoughts—and get a friendly, AI-style response instantly. It's fully anonymous, free to use, and designed for simplicity and empathy.
+# 🧠 FeelTalk – Emotional Chatbot Web App (ASP.NET Core MVC)
+
+**FeelTalk** is a free, lightweight, and anonymous emotional chatbot web application built using **ASP.NET Core MVC**. It allows users to share their feelings, jokes, or thoughts — and receive friendly, human-like responses from a mood-sensitive chatbot.
+
+---
+
+## 🌟 Features
+
+- 🤖 Mood-based chatbot (happy, sad, joke, default)
+- 🧑‍💻 Built using ASP.NET Core MVC architecture
+- 💬 AJAX-based conversation handling (no page reload)
+- 🌐 Easily deployable on IIS, Azure, or any .NET host
+- 🎨 Razor views ready for full UI customization
+- 📦 Clean and simple folder structure
+
+---
+
+## 📁 Project Structure
+
